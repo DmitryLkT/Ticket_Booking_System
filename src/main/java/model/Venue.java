@@ -14,9 +14,9 @@ public class Venue {
     @Override
     public String toString() {
         return "Зал {" +
-                "id=" + id +
-                ", название зала ='" + title + '\'' +
-                ", колличество мест =" + numberOfSeats +
+                "id= " + id +
+                ", название зала = '" + title + '\'' +
+                ", колличество мест = " + numberOfSeats +
                 '}';
     }
 

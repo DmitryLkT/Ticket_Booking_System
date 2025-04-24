@@ -14,9 +14,9 @@ public class User {
     @Override
     public String toString() {
         return "Пользователь{" +
-                "id =" + id +
-                ", Имя ='" + name + '\'' +
-                ", Права администратора =" + isAdmin +
+                "id = " + id +
+                ", Имя = '" + name + '\'' +
+                ", Права администратора = " + isAdmin +
                 '}';
     }
 
